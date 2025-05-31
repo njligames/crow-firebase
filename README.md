@@ -1,10 +1,5 @@
-Here is the fully formatted **`README.md`** with GitHub-style badges and clean markdown layout, ready to drop into your project.
+## 📘 `crow-firebase`
 
----
-
-## 📘 `README.md`
-
-````markdown
 # 🔐 Crow + Firebase + JWT API (MVP)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
@@ -51,7 +46,7 @@ git clone https://github.com/microsoft/vcpkg.git
 cd vcpkg
 ./bootstrap-vcpkg.sh
 ./vcpkg install crow cpr jwt-cpp nlohmann-json
-````
+```
 
 ### 🏗️ Build the Project
 
@@ -142,17 +137,3 @@ MIT License. Built by \[Your Name].
 
 Contributions welcome!
 
-```
-
----
-
-### ✅ What’s Next?
-
-Would you like me to:
-
-- Generate a `LICENSE` file?
-- Push this into a live GitHub repository structure?
-- Turn this into a Docker container or Heroku-compatible app?
-
-Let me know how far you'd like to take it!
-```
